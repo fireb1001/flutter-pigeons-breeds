@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "15800674344",
+    "firebase_url": "https://pigeonsbreeds.firebaseio.com",
+    "project_id": "pigeonsbreeds",
+    "storage_bucket": "pigeonsbreeds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15800674344:android:a785977d23a407b7",
+        "android_client_info": {
+          "package_name": "com.momen.pigeonsbreeds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15800674344-9mfr2689p5nj6uq4dec9abo5evkmlpd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.momen.pigeonsbreeds",
+            "certificate_hash": "6847c604a5716d9c7406cc648506f8e0b184f608"
+          }
+        },
+        {
+          "client_id": "15800674344-53icnc7qunfjhajcpl6kn67cjl4u9n78.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "15800674344-53icnc7qunfjhajcpl6kn67cjl4u9n78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAseP8zXM19ClNVsvqXSyjQW8Ez80ydPb4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15800674344-53icnc7qunfjhajcpl6kn67cjl4u9n78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
